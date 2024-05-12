@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarFactoryLibrary", "CarFac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarFactoryLibaray_test", "CarFactoryLibaray_test\CarFactoryLibaray_test.csproj", "{18447998-D362-41A9-A181-80A83824A128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFactoryLibrary_Test", "CarFactoryLibrary_Test\CarFactoryLibrary_Test.csproj", "{64D4141C-F000-4DE2-9A80-ECE1925F638B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFactoryLibrary_Lab1_Test", "CarFactoryLibrary_Test\CarFactoryLibrary_Lab1_Test.csproj", "{64D4141C-F000-4DE2-9A80-ECE1925F638B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
